@@ -21,7 +21,7 @@ export default function Home() {
          <div className="h-1/2 w-full rounded-lg bg-neutral-800"></div>
          <div className="h-1/2 w-full rounded-lg bg-neutral-800"></div>
        </div>
-       <div className="h-[80vh w-full rounded-lg bg-neutral-800]"></div>
+       <div className="h-[80vh] w-full rounded-lg bg-neutral-800"></div>
      </div>
      </div>
     </div>
